@@ -21,7 +21,7 @@ Amante de IT desde siempre empezando de pequeño con el hardware y ahora empezan
 
 ## Estudios 
 
-> Secundaria Obligatoria | Grado medio Informatica | Bachillerato Humanidades | SP Barcelona
+> Secundaria Obligatoria | Grado medio Informatica | Bachillerato Humanidades | BCN, Cataluña.
 
 - Actualmente estudiando en [4Geeks Academy] 
 
