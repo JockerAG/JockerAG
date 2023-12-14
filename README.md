@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Jocker AG - Alfredo Márquez
 
-Amante de la informatica desde siempre empezando de pequeño con el hardware y ahora empezando mi camino en el desarrollo de software. <br>
+Amante de la informatica desde siempre, empezando de pequeño con el hardware y ahora empezando mi camino en el desarrollo de software. <br>
 |[Linkedin](https://www.linkedin.com/in/alfredo-m%C3%A1rquez-g%C3%A1ndara-33968014b/)|
 
 ## Estudios 
