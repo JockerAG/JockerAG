@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ¡Hola! Soy Alfredo Márquez, un entusiasta de la informática con pasión por el desarrollo de software. Me encanta aprender y estoy en proceso de convertirme en un desarrollador profesional. Actualmente estoy estudiando en [4Geeks Academy], donde estoy adquiriendo habilidades en diferentes tecnologías y frameworks.
 
 📍 **Ubicación:** Ourense, Galicia, España  
-📧 **Correo electrónico:** tuemail@example.com  
+📧 **Correo electrónico:** Gandaraj94@gmail.com
 🔗 **LinkedIn:** [Alfredo Márquez en LinkedIn](https://www.linkedin.com/in/alfredo-m%C3%A1rquez-g%C3%A1ndara-33968014b/)
 
 ## Tecnologías
