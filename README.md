@@ -25,13 +25,13 @@ Actualmente, estoy embarcado en el emocionante viaje de convertirme en un desarr
 
 ## Tecnologías
 
-- ![Python] <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" height="24"> Python
-- ![JavaScript] <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" height="24"> JavaScript
-- ![React] <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" height="24"> React
-- ![SQLAlchemy] <img src="https://img.shields.io/badge/-SQL%20Alchemy-CA2108?logo=sqlalchemy&logoColor=white&style=flat-square" height="24"> SQL Alchemy
-- ![Flask] <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square" height="24"> Flask
-- ![Bootstrap] <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square" height="24"> Bootstrap
-- ![GIT] <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" height="24"> Git
+- <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" height="24"> Python
+- <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" height="24"> JavaScript
+- <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" height="24"> React
+- <img src="https://img.shields.io/badge/-SQL%20Alchemy-CA2108?logo=sqlalchemy&logoColor=white&style=flat-square" height="24"> SQL Alchemy
+- <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square" height="24"> Flask
+- <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square" height="24"> Bootstrap
+- <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" height="24"> Git
 
 
 ## Experiencia Laboral
