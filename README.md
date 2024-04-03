@@ -41,6 +41,9 @@ Actualmente, estoy embarcado en el emocionante viaje de convertirme en un desarr
 
 *Actualmente en proceso de adquirir experiencia laboral como desarrollador de software.*
 
+## Github Stats!
+![JockerAG GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vision-friendly-dark)
+
 ## Educación
 
 - Grado Medio en Informática | Bachillerato en Humanidades - BCN, Cataluña
