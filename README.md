@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Alfredo Márquez
+# Hola! Soy Alfredo Márquez!
 
-¡Hola! Soy Alfredo Márquez, un entusiasta de la informática con pasión por el desarrollo de software. Me encanta aprender y estoy en proceso de convertirme en un desarrollador profesional. Actualmente estoy estudiando en [4Geeks Academy], donde estoy adquiriendo habilidades en diferentes tecnologías y frameworks.
+Entusiasta de la informática con pasión por el desarrollo de software. Me encanta aprender y estoy en proceso de convertirme en un desarrollador profesional. Actualmente estoy estudiando en [4Geeks Academy], donde estoy adquiriendo habilidades en diferentes tecnologías y frameworks.
 
 📍 **Ubicación:** Ourense, Galicia, España  
 📧 **Correo electrónico:** Gandaraj94@gmail.com
