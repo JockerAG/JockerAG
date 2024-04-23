@@ -32,7 +32,7 @@ Actualmente, estoy embarcado en el emocionante viaje de convertirme en un desarr
 - <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square" height="24"> 
 - <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" height="24"> 
 - <img src="https://img.shields.io/badge/-ReactBootstrap-61DAFB?logo=react&logoColor=white&style=flat-square" height="24">
-- <img src="https://img.shields.io/badge/-SQL%20Alchemy-CA2108?logo=sqlalchemy&logoColor=white&style=flat-square" height="24"> 
+- <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="24"> 
 - <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square" height="24"> 
 - <img src="https://img.shields.io/badge/-SQL-F05032?style=flat-square&logo=sql&logoColor=white" height="24"> 
 
