@@ -20,8 +20,8 @@ Apasionado de la informática desde niño, ¿tú jugabas a ser un hacker? Yo si!
 Actualmente, estoy embarcado en el emocionante viaje de convertirme en un desarrollador profesional, perfeccionando mis habilidades en [4Geeks Academy](https://4geeks.com/es) mientras exploró diversas tecnologías y frameworks. 🚀
 
 📍 **Ubicación:** Ourense, Galicia, España  
-📧 **Correo electrónico:** Gandaraj94@gmail.com
-🔗 **LinkedIn:** [Alfredo Márquez en LinkedIn](https://www.linkedin.com/in/alfredo-m%C3%A1rquez-g%C3%A1ndara-33968014b/)
+📧 **Correo electrónico:** amgcodecraft@gmail.com
+🔗 **LinkedIn:** [Alfredo Márquez](https://www.linkedin.com/in/alfredo-m%C3%A1rquez-g%C3%A1ndara-33968014b/)
 
 ## Tecnologías
 
