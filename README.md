@@ -37,9 +37,7 @@ Actualmente, estoy embarcado en el emocionante viaje de convertirme en un desarr
 - <img src="https://img.shields.io/badge/-SQL-F05032?style=flat-square&logo=sql&logoColor=white" height="24"> 
 
 
-## Experiencia Laboral
 
-*Actualmente en proceso de adquirir experiencia laboral como desarrollador de software.*
 
 ## Github Stats!
 ![JockerAG GitHub stats](https://github-readme-stats.vercel.app/api?username=JockerAG&show_icons=true&theme=vision-friendly-dark) [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JockerAG&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
